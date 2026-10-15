@@ -32,7 +32,7 @@ export const CORE_INFO: CoreInfo = {
   supportCompanyName: '合同会社ドーンメディア',
   supportContact: {
     lineUrl: 'https://lin.ee/YOUR_LINE_ID',
-    contactFormUrl: 'https://your-domain.com/contact/',
+    contactFormUrl: 'https://dawnmedia.jp/contractor-support/',
   },
 };
 
